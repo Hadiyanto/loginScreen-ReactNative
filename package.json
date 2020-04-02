@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "appcenter": "3.0.1",
+    "appcenter-analytics": "3.0.1",
+    "appcenter-crashes": "3.0.1",
     "expo": "~36.0.0",
     "expo-asset": "8.0.0",
     "react": "~16.9.0",
